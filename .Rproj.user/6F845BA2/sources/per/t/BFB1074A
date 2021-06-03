@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1622754742638.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3473749631",
+    "id" : "BFB1074A",
+    "lastKnownWriteTime" : 1622754728,
+    "last_content_update" : 1622754728,
+    "path" : "~/My_Rproducible_Data/my-reproducible-project/.Rhistory",
+    "project_path" : ".Rhistory",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_history"
+}

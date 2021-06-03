@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1622754748148.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2451639733",
+    "id" : "ACEDEC2",
+    "lastKnownWriteTime" : 1622754886,
+    "last_content_update" : 1622754886735,
+    "path" : "~/My_Rproducible_Data/my-reproducible-project/My_test-1.R",
+    "project_path" : "My_test-1.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
